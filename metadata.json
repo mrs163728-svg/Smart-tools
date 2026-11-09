@@ -1,0 +1,6 @@
+{
+  "name": "Smart Tools World",
+  "description": "World-class free online tools platform featuring calculators, text utilities, image manipulation, PDF tools, developer helpers, and unit converters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
